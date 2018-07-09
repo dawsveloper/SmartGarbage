@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps_telkom">Map</string>
+    <string name="title_activity_maps_kampus">Map</string>
+    <string name="title_activity_maps_perum">Map</string>
+</resources>
